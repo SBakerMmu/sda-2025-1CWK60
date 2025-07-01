@@ -1,0 +1,3 @@
+interface DiceShaker {
+    int shake();
+}
